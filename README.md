@@ -14,11 +14,10 @@ Many aspiring IT professionals, system administrators, and Microsoft 365 learner
 
 ## 🛠️ What This Repository Includes
 
-- 🧾 A **step-by-step guide** on purchasing a Microsoft 365 Business license  
-- 🔐 **Security tips** to ensure a safe learning environment  
+- 🧾 A **step-by-step guide** on purchasing a Microsoft 365 Business license    
 - 🧑‍💻 Best practices for configuring an educational/test tenant  
 - 📋 Screenshots and/or recorded walkthroughs of Admin Center features  
-- 🧪 Examples of real-world scenarios for practice
+
 
 ## ⚠️ Disclaimer
 This repository is strictly for **educational purposes**. I do **not** promote license misuse or any activity that violates Microsoft’s terms of service. Always purchase valid licenses directly from [Microsoft](https://www.microsoft.com) or an authorized reseller.
