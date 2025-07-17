@@ -4,28 +4,14 @@
 Welcome to the **Microsoft-Admin-Center** repository!  
 This repository is designed to help anyone looking to access the Microsoft 365 Admin Center portal using a **business license** for **educational and testing purposes**.
 
-## 🎯 Purpose
-Many aspiring IT professionals, system administrators, and Microsoft 365 learners may want to explore the Admin Center environment but find it difficult without a business license. This repo provides a walkthrough of how I set up access legally and affordably, and shares the steps I took to:
-
-- Purchase a Microsoft 365 Business license
-- Access the Microsoft Admin Center
-- Explore the tools available to admins (Exchange, Entra ID / Azure AD, Teams, Intune, etc.)
-- Set up test users, policies, and environments
-
 ## 🛠️ What This Repository Includes
 
-- 🧾 A **step-by-step guide** on purchasing a Microsoft 365 Business license    
-- 🧑‍💻 Best practices for configuring an educational/test tenant  
-- 📋 Screenshots and/or recorded walkthroughs of Admin Center features  
+# Microsoft 365 Administration Documentation
 
+This repository serves as a working documentation space for Microsoft 365 administration tasks.
 
-## ⚠️ Disclaimer
-This repository is strictly for **educational purposes**. I do **not** promote license misuse or any activity that violates Microsoft’s terms of service. Always purchase valid licenses directly from [Microsoft](https://www.microsoft.com) or an authorized reseller.
+It includes step-by-step guides, annotated screenshots, and references for actions performed across services like SharePoint, Teams, Azure AD, Exchange, and Microsoft 365 Groups. These notes are meant to assist IT support staff, system administrators, and anyone managing the Microsoft 365 environment through the admin portals.
 
-## 📬 Feedback / Contributions
-Have suggestions? Found a better method? Open an issue or submit a pull request! Let’s make Microsoft 365 more accessible to learners everywhere.
+The purpose is not to be an exhaustive guide, but to document real-world admin procedures as they are carried out—making it easier to troubleshoot, repeat, or hand off tasks.
 
----
-
-> _"Learning by doing is powerful—especially when done in a real, hands-on environment."_  
-
+All visual references are captured from the admin center for clarity. This documentation will evolve as more admin workflows are added or updated.
